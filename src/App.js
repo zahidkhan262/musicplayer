@@ -19,7 +19,7 @@ function App() {
     {
       title: "Filhaal 2",
       singer: "B praak",
-      poster: "filhaal2.jpg",
+      poster: "Filhaal2.jpg",
       src: "filhal2.mp3",
     },
     {
